@@ -9,7 +9,7 @@ rustup target add wasm32-unknown-unknown
 rustup target add wasm32-wasi
 ```
 
-## Examplds
+## Examples
 
 ### `wasmer-simple`
 
